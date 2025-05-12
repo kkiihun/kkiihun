@@ -7,6 +7,44 @@
 </p>
 
 ---
+# Hello, I'm a Hybrid System Builder.
+
+기술과 감각, 자동화와 사람 사이를 연결하는 실험을 이어가고 있습니다.  
+Arduino 기반 자동화 실험실과 감각 기록 데이터를 연결해  
+데이터 기반 삶의 구조를 설계하고자 합니다.
+
+---
+
+## 🔧 What I Build
+
+### SENSE (감각 기반 데이터 실험)
+- AppSheet 기반 감각기록 앱 개발
+- FastAPI + MySQL → Streamlit 시각화 대시보드 구축
+- 서울, 강릉, 양평 등 지역 기반 감각 데이터 수집
+- 감정점수, 향/맛/소리 기반 사용자 콘텐츠 기록 시스템 실험
+
+### LUNARLINE (Arduino 기반 자동화 실험실)
+- Arduino + 센서 + Google Sheets 자동 기록 시스템 설계
+- 소형 MES 프로토타입 구축 및 Streamlit 연동
+- 1인 스마트 제조 시스템 구현 실험 중
+- 카메라, 센서, 모터 제어 → 데이터 대시보드 연결
+
+---
+
+## 🌍 What I Value
+
+- 기술은 사람을 위한 연결이어야 한다는 철학
+- 작지만 유연한 자동화
+- 공감할 수 있는 데이터
+- 하이브리드로 운영되는 지역 기반 스마트 시스템
+
+---
+
+## 🔗 Links
+
+- Portfolio: [Notion 링크 예정]
+- Resume (국문/영문): [추후 등록]
+- Contact: [이메일 또는 링크드인]
 
 ### 🔭 Current Projects
 
