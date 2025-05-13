@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hello, I'm Kihun Kim</h1>
 <p align="center">
-  🌿 Sensory Explorer | 🧠 Data Engineer | ⚙️ Smart Factory Builder
   🌱 Hybrid Builder | ⚙️ Automation Explorer | 📊 Data Crafter  
 </p>
 <p align="center">
@@ -12,15 +11,15 @@
 # 👀 About Me
 
 기술과 감각, 자동화와 사람 사이를 연결하는 하이브리드 시스템 설계자입니다.  
-Arduino 기반 자동화 실험실과 감각 기록 데이터를 바탕으로  
-데이터 기반 삶의 구조를 탐색하고 설계하고 있습니다.
+Arduino 기반 자동화 실험실과 감각 데이터 수집 시스템을 직접 구축하고 있으며,  
+데이터 기반으로 삶의 구조를 탐색하고 시각화된 경험으로 전달합니다.
 
 I build small, sustainable systems that bridge between machines and humans, between data and senses.
 
-- ⚙️ Operating Arduino + Streamlit-based automation labs  
-- 🌏 Designing sensory data projects that visualize human experience  
-- 📊 Developing data pipelines with FastAPI, MySQL, AppSheet  
-- ✍️ Writing and visualizing where emotion and technology intersect
+- ⚙️ Build and operate Arduino + Streamlit-based micro automation labs  
+- 🌏 Design sensory data systems to capture and visualize emotional experiences  
+- 📊 Develop data pipelines using FastAPI, MySQL, and AppSheet  
+- ✍️ Document intersections of technology and emotion through storytelling and dashboards
 
 ---
 
