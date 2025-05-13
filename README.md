@@ -27,7 +27,7 @@ Arduino 기반 자동화 실험실과 감각 기록 데이터를 바탕으로
 
 ---
 
-### 🧪 LUNARLINE Smart Lab
+### 🧪 LUNARLINE Smart Lab (Planned)
 > Arduino, 센서, 3D 프린터, 로봇팔 기반의 소형 MES 실험실  
 > Google Sheets + Streamlit 기반 스마트 자동화 테스트 진행
 
@@ -35,7 +35,7 @@ Arduino 기반 자동화 실험실과 감각 기록 데이터를 바탕으로
 
 ---
 
-### 🤖 ZAP 프로젝트
+### 🤖 ZAP 프로젝트 (Planned)
 > IoT 기반 모기 퇴치 로봇팔 실험  
 > OpenCV + Servo + Sensor 기반 객체 추적, Python 자동화 연동
 
