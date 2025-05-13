@@ -23,7 +23,7 @@ Arduino 기반 자동화 실험실과 감각 기록 데이터를 바탕으로
 > 서울·양평·강릉 등지에서 감각 기록 → AppSheet 자동화 → FastAPI 분석 → Streamlit 시각화  
 > → 데이터 마켓 연동
 
-[→ 프로젝트 보기](https://github.com/kkiihun/sense-data-lab)
+[→ 프로젝트 보기](https://github.com/kkiihun/sense-homepage)
 
 ---
 
@@ -31,7 +31,7 @@ Arduino 기반 자동화 실험실과 감각 기록 데이터를 바탕으로
 > Arduino, 센서, 3D 프린터, 로봇팔 기반의 소형 MES 실험실  
 > Google Sheets + Streamlit 기반 스마트 자동화 테스트 진행
 
-[→ 프로젝트 보기](https://github.com/kkiihun/lunarline-mes-kit)
+[→ 프로젝트 보기](https://github.com/kkiihun/lunarline-mes)
 
 ---
 
@@ -39,7 +39,7 @@ Arduino 기반 자동화 실험실과 감각 기록 데이터를 바탕으로
 > IoT 기반 모기 퇴치 로봇팔 실험  
 > OpenCV + Servo + Sensor 기반 객체 추적, Python 자동화 연동
 
-[→ 프로젝트 보기](https://github.com/kkiihun/zap-robot-arm)
+[→ 프로젝트 보기](https://github.com/kkiihun/zap-robotarm)
 
 ---
 
