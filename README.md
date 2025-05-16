@@ -25,7 +25,7 @@ I build small, sustainable systems that bridge between machines and humans, betw
 
 ## 🔧 Projects
 
-### 🌀 Sense Journey
+### 🌀 Sense Journey (~ing)
 > 감각 데이터 기반 로컬 체험 콘텐츠 플랫폼  
 > 서울·양평·강릉 등지에서 감각 기록 → AppSheet 자동화 → FastAPI 분석 → Streamlit 시각화  
 > → 데이터 마켓 연동
